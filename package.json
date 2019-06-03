@@ -119,7 +119,7 @@
     "flow-bin": "^0.40.0",
     "functional-components": "0.0.5",
     "graphql-tag": "^1.1.2",
-    "grommet": "v1.2.1",
+    "grommet": "1.10.0",
     "history": "^4.5.1",
     "immutable": "^3.7.5",
     "isomorphic-fetch": "^2.2.0",
